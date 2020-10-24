@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Tutorial: Intro to React Hooks',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://meenakshi-dhanani.github.io',
+  baseUrl: '/react-hooks-tutorial/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'meenakshi-dhanani', // Usually your GitHub org/user name.
+  projectName: 'react-hooks-tutorial', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Facebook Community Challenge 2020',
